@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(228, 206, 13);
+    background-color: rgb(18, 111, 31);
 }
 
 img {
@@ -8,9 +8,9 @@ img {
 }
 
 .can-eat {
-    background-color: rgb(194, 106, 106);
+    background-color: rgb(243, 228, 11);
 }
 
 .is-eaten {
-    background-color: rgb(66, 58, 58);
+    background-color: rgb(14, 99, 226);
 }
